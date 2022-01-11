@@ -27,3 +27,4 @@ selected_text: phrases /words from the text that best supports the sentiment
 
 # Performance Metric
 The performance metric used in this problem is the word-level Jaccard score. The Jaccard Score or Jaccard Similarity is one of the statistics used in understanding the similarity between two sets.
+![image](https://user-images.githubusercontent.com/76558821/148880064-266f3829-121e-4123-8e5a-1a20028af350.png)
