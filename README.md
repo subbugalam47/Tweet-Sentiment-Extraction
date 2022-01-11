@@ -5,7 +5,7 @@ Sentiment Analysis can be defined as the process of analyzing text data and cate
 
 Tweet => "My ridiculous dog is amazing." [sentiment: positive]
 
-With all of the tweets circulating every second it is hard to tell whether the sentiment behind a specific tweet will impact a company, or a person's, brand for being viral (positive), or devastate profit because it strikes a negative tone. Capturing sentiment in language is important in these times where decisions and reactions are created and updated in seconds. But, which words actually lead to the sentiment description? In this competition you will * need to pick out the part of the tweet (word or phrase) that reflects the sentiment. *
+With all of the tweets circulating every second it is hard to tell whether the sentiment behind a specific tweet will impact a company, or a person's, brand for being viral (positive), or devastate profit because it strikes a negative tone. Capturing sentiment in language is important in these times where decisions and reactions are created and updated in seconds. But, which words actually lead to the sentiment description? In this competition you will *need to pick out the part of the tweet (word or phrase) that reflects the sentiment*
 
 # Business Problem
 It is almost impossible to manually sort thousands of social media conversations, customer reviews, and surveys. The problem I am trying to solve here is part of this Kaggle competition. In this problem, we are given some text data along with their sentiment(positive/negative/neutral) and we need to find the phrases/words that best support the sentiment.
